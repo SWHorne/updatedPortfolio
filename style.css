@@ -1,0 +1,41 @@
+
+img {
+   max-width: 350px;
+   max-height: 350px;
+}
+body {
+    background-color: black;
+}
+footer {
+    position: fixed;
+    background-color: darkred;
+    text-align: center;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        color: white;
+        text-align: center;
+}
+.proj1img {
+    width: 75%;
+}
+/* @media screen and (max-width: 768px){
+body {
+    background-color: darkred;
+    color: black;
+}; */
+/* .jumbotron{
+    background-color: black;
+};
+.card-group{
+    background-color: black;
+}
+.card-title{
+    background-color: black;
+}
+.cardbody {
+    background-color: black;
+}
+.card-text{
+    background-color: black;
+}*/
